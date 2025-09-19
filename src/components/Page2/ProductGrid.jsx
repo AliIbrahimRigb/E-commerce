@@ -8,7 +8,7 @@ const ProductGrid = () => {
     price: "$120.23",
     originalPrice: "$150.23",
     discount: "20% Orders",
-    image: "/src/assets/Figam/Rectangle 56.png", // Using one of the available images
+    image: "/assets/Figam/Rectangle 56.png", // Using one of the available images
     rating: 4.5,
     isNew: index < 3
   }));

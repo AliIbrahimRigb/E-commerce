@@ -5,7 +5,7 @@ const SummerCollections = () => {
     <section 
       className="py-16 font-euclid relative bg-cover bg-center bg-no-repeat w-[90%] mx-auto"
       style={{
-        backgroundImage: `url('/src/assets/Figam/image 6.png')`,
+        backgroundImage: `url('/assets/Figam/image 6.png')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}

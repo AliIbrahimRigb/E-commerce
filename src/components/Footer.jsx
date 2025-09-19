@@ -2,11 +2,11 @@ import React from 'react';
 
 const Footer = () => {
   const paymentMethods = [
-    { name: 'Visa', logo: '/src/assets/Figam/Rectangle 70.png' },
-    { name: 'Mastercard', logo: '/src/assets/Figam/Rectangle 69.png' },
-    { name: 'PayPal', logo: '/src/assets/Figam/Rectangle 68.png' },
-    { name: 'Apple Pay', logo: '/src/assets/Figam/Rectangle 67.png' },
-    { name: 'Google Pay', logo: '/src/assets/Figam/Rectangle 66.png' }
+    { name: 'Visa', logo: '/assets/Figam/Rectangle 70.png' },
+    { name: 'Mastercard', logo: '/assets/Figam/Rectangle 69.png' },
+    { name: 'PayPal', logo: '/assets/Figam/Rectangle 68.png' },
+    { name: 'Apple Pay', logo: '/assets/Figam/Rectangle 67.png' },
+    { name: 'Google Pay', logo: '/assets/Figam/Rectangle 66.png' }
   ];
 
   return (

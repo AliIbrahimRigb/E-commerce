@@ -16,7 +16,7 @@ const HeroBanner = () => {
             </p>
             <button className="bg-black  text-[#FAFAFA] gap-2 px-8 py-3 flex rounded-md items-center border border-solid border-white text-base font-semibold  transition-all duration-300 uppercase">
               Place your Order
-              <img src="src/assets/Figam/Vector 8.svg" alt="" className='w-6 h-5'/>
+              <img src="/assets/Figam/Vector 8.svg" alt="" className='w-6 h-5'/>
             </button>
           </div>
         </div>
@@ -31,7 +31,7 @@ const HeroBanner = () => {
             
             {/* Model Image */}
             <img
-              src="/src/assets/Figam/image-removebg-preview 1.png"
+              src="/assets/Figam/image-removebg-preview 1.png"
               alt="Fashion Model"
               className="relative z-10 h-[80%] w-auto object-contain max-h-full"
             />

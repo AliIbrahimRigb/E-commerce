@@ -2,11 +2,11 @@ import React from 'react';
 
 const BrandLogos = () => {
   const brands = [
-    { name: "VERSACE", logo: "/src/assets/Figam/Rectangle 65.png" },
-    { name: "ZARA", logo: "/src/assets/Figam/Rectangle 66.png" },
-    { name: "GUCCI", logo: "/src/assets/Figam/Rectangle 67.png" },
-    { name: "PRADA", logo: "/src/assets/Figam/Rectangle 68.png" },
-    { name: "Calvin Klein", logo: "/src/assets/Figam/Rectangle 69.png" }
+    { name: "VERSACE", logo: "/assets/assets/Figam/Rectangle 65.png" },
+    { name: "ZARA", logo: "/assets/Figam/Rectangle 66.png" },
+    { name: "GUCCI", logo: "/assets/Figam/Rectangle 67.png" },
+    { name: "PRADA", logo: "assets/Figam/Rectangle 68.png" },
+    { name: "Calvin Klein", logo: "/assets/Figam/Rectangle 69.png" }
   ];
 
   return (

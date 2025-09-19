@@ -54,7 +54,7 @@ const Header = () => {
                 
                 {/* Basket with existing icon */}
                 <button className="flex items-center space-x-1 p-2 rounded-full hover:bg-gray-100 transition-colors">
-                    <img src="/src/assets/Figam/shopping-basket 1.png" alt="Basket" className="h-5 object-contain"/>
+                    <img src="/assets/Figam/shopping-basket 1.png" alt="Basket" className="h-5 object-contain"/>
                 </button>
             </nav>
             <button
@@ -110,7 +110,7 @@ const Header = () => {
                 
                 {/* Basket Icon */}
                 <button className="p-3 rounded-full hover:bg-gray-100" onClick={() => setIsMenuOpen(false)}>
-                    <img src="/src/assets/Figam/shopping-basket 1.png" alt="Basket" className="h-6 object-contain"/>
+                    <img src="/assets/Figam/shopping-basket 1.png" alt="Basket" className="h-6 object-contain"/>
                 </button>
             </nav>
           </div>

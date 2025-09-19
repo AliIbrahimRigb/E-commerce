@@ -2,12 +2,12 @@ import React from 'react';
 
 const BrandsForYou = () => {
   const brands = [
-    { name: "VERSACE", logo: "/src/assets/Figam/Rectangle 65.png" },
-    { name: "ZARA", logo: "/src/assets/Figam/Rectangle 66.png" },
-    { name: "GUCCI", logo: "/src/assets/Figam/Rectangle 67.png" },
-    { name: "PRADA", logo: "/src/assets/Figam/Rectangle 68.png" },
-    { name: "Calvin Klein", logo: "/src/assets/Figam/Rectangle 69.png" },
-    { name: "GUCCI", logo: "/src/assets/Figam/Rectangle 70.png" }
+    { name: "VERSACE", logo: "/assets/Figam/Rectangle 65.png" },
+    { name: "ZARA", logo: "/assets/Figam/Rectangle 66.png" },
+    { name: "GUCCI", logo: "/assets/Figam/Rectangle 67.png" },
+    { name: "PRADA", logo: "/assets/Figam/Rectangle 68.png" },
+    { name: "Calvin Klein", logo: "/assets/Figam/Rectangle 69.png" },
+    { name: "GUCCI", logo: "/assets/Figam/Rectangle 70.png" }
   ];
 
   return (
@@ -15,7 +15,7 @@ const BrandsForYou = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Title */}
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold text-black mb-4 relative after:content-[''] after:absolute after:left-[50%] after:-translate-x-[50%] after:-bottom-2 after:rounded-full after:w-[15%] after:h-[4px] after:bg-black">
+          <h2 className="text-3xl md:text-4xl font-bold text-black mb">
             BRANDS FOR YOU
           </h2>
         </div>

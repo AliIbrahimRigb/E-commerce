@@ -6,28 +6,28 @@ const PopularThisWeek = () => {
       id: 1,
       name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
       price: "$89.99",
-      image: "/src/assets/Figam/person1.png",
+      image: "/assets/Figam/person1.png",
       category: "Jackets"
     },
     {
       id: 2,
       name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse", 
       price: "$65.00",
-      image: "/src/assets/Figam/Rectangle 56.png",
+      image: "/assets/Figam/Rectangle 56.png",
       category: "Sweaters"
     },
     {
       id: 3,
       name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
       price: "$29.99", 
-      image: "/src/assets/Figam/Rectangle 57.png",
+      image: "/assets/Figam/Rectangle 57.png",
       category: "T-Shirts"
     },
     {
       id: 4,
       name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
       price: "$45.00",
-      image: "/src/assets/Figam/Rectangle 47.png",
+      image: "/assets/Figam/Rectangle 47.png",
       category: "Blouses"
     }
   ];

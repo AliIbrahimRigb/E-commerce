@@ -4,14 +4,14 @@ const cardData = [
   [
     {
       title: "Exclusive Shoes",
-      image: "/src/assets/Figam/Rectangle 47.png",
+      image: "/assets/Figam/Rectangle 47.png",
       subTitle: "Exclusive Shoes",
       price: "PRICE 20% OFF",
       code: "DISCOUNT CODE - VATR3920",
     },
     {
       title: "Exquisite Styles & Collections",
-      image: "/src/assets/Figam/Rectangle 51.png",
+      image: "/assets/Figam/Rectangle 51.png",
       subTitle: "Exclusive Shoes",
       price: "PRICE 20% OFF",
       code: "DISCOUNT CODE - VATR3920",
@@ -20,14 +20,14 @@ const cardData = [
   [
     {
       title: "New Arrivals",
-      image: "/src/assets/Figam/Rectangle 57.png",
+      image: "/assets/Figam/Rectangle 57.png",
       subTitle: "Exclusive Shoes",
       price: "PRICE 20% OFF",
       code: "DISCOUNT CODE - VATR3920",
     },
     {
       title: "New Arrivals",
-      image: "/src/assets/Figam/Rectangle 56.png",
+      image: "/assets/Figam/Rectangle 56.png",
       subTitle: "Exclusive Items",
       price: "PRICE 20% OFF",
       code: "DISCOUNT CODE - VATR3920",
@@ -49,7 +49,7 @@ const WeekHighlights = () => {
         </div>
         
         {/* Responsive Grid Layout */}
-        <div className="w-[100%] mx-auto grid grid-cols-1 md:grid-rows-2 gap-y-4">
+        <div className="w0%] mx-auto grid grid-cols-1 md:grid-rows-2 gap-y-4">
           {cardData.map((group, groupIndex) => (
             <div
               key={groupIndex}
